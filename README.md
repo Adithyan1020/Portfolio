@@ -3,6 +3,7 @@
 This portfolio is a responsive web application built with React.js, Tailwind CSS, and Vite. It showcases my projects, skills, and contact information in an easy-to-navigate format. The use of Tailwind CSS ensures a clean and modern design, while Vite provides fast and efficient development and production builds.
 
 ## Features
+
 <ul>
 <li>Responsive design that adapts to various screen sizes and devices.</li>
 <li>Projects section with details and links to live demos and source code repositories.</li>
@@ -12,8 +13,9 @@ This portfolio is a responsive web application built with React.js, Tailwind CSS
 </ul>
 
 ## Technologies Used:
+
 <ul>
-  <li>React.js for building the frontend application.</li>
-  <li>Tailwind CSS for styling the components.</li>
-  <li>Vite for fast development and production builds.</li>
+  <li>React.js</li>
+  <li>Tailwind CSS</li>
+  <li>Vite</li>
 </ul>
