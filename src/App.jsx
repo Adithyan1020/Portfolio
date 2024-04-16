@@ -8,9 +8,14 @@ import { Projects } from "./components/Projects";
 import { Skills } from "./components/Skills";
 import { About } from "./components/About";
 import { Contact } from "./components/Contact";
+import ReactGA from "react-ga";
 
 export function App() {
   const [scrolling, setScrolling] = useState(false);
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
 
   const onPageScroll = () => {
     if (window.pageYOffset > 200) {
