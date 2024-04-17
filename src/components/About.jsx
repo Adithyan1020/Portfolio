@@ -9,7 +9,7 @@ export function About() {
             <p>
               Graduated with a Bachelor&apos;s degree in CSE from Meenakshi
               College of Engineering & Started position as a Software engineer
-              at Datacapten Technologies focusing on email marketing.
+              at Datacapten Technologies focusing on digital marketing.
             </p>
           </div>
           <div className="pl-24 mt-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
