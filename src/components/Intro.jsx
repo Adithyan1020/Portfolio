@@ -13,9 +13,9 @@ export function Intro() {
     <section id="intro">
       <div className="container m-auto px-4 pt-12 pb-12 sm:pt-20 flex flex-col sm:flex-row gap-6 text-center sm:text-left">
         <div>
-          <h2 className="font-bold text-4xl">Hello 👋, I&apos;m Hari,</h2>
+          <h2 className="font-bold text-3xl">Hello 👋, I&apos;m Hari,</h2>
           <div>
-            <h2 className="font-bold text-4xl mt-1 pb-1 gradiant-text">
+            <h2 className="font-bold text-3xl mt-1 pb-1 gradiant-text">
               Frontend Developer
             </h2>
           </div>
@@ -32,12 +32,6 @@ export function Intro() {
             >
               Download resume
             </button>
-            <a
-              href="#contact"
-              className="border border-blue-500 text-blue-500 ml-3 font-bold py-6 px-8 rounded-full bg-transparent hover:shadow-gray-500 shadow-md bg-gradient-to-t hover:from-blue-500 hover:to-cyan-500  hover:text-white hover:border-blue-500 md:px-4 md:py-3.5"
-            >
-              Contact
-            </a>
           </div>
         </div>
       </div>
