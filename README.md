@@ -7,7 +7,7 @@ This portfolio is a responsive web application built with React.js, Tailwind CSS
 <ul>
 <li>Responsive design that adapts to various screen sizes and devices.</li>
 <li>Projects section with details and links to live demos and source code repositories.</li>
-<li>Skills section highlighting proficiency in HTML, CSS, JavaScript, React.js, and other technologies.</li>
+<li>Skills section highlighting proficiency in HTML, CSS, JavaScript, React.js and other technologies.</li>
 <li>Contact section with email, phone number, and links to GitHub and LinkedIn profiles.</li>
 <li>Smooth scrolling and animations for a better user experience.</li>
 </ul>
