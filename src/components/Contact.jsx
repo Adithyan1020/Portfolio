@@ -1,5 +1,5 @@
 import { FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
-import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 
 export function Contact() {
   return (
@@ -24,16 +24,6 @@ export function Contact() {
           className="text-white hover:underline"
         >
           GitHub: github.com/Hari-Vijayaraghavan96
-        </a>
-      </div>
-      <div className="flex items-center">
-        <AiFillLinkedin className="mr-2" />
-        <a
-          target="blank"
-          href="https://www.linkedin.com/in/hari-vijayaraghavan/"
-          className="text-white hover:underline"
-        >
-          LinkedIn: linkedin.com/in/hari-vijayaraghavan
         </a>
       </div>
     </div>

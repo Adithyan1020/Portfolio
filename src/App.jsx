@@ -18,7 +18,7 @@ export function App() {
   }, []);
 
   const onPageScroll = () => {
-    if (window.pageYOffset > 200) {
+    if (window.scrollY > 200) {
       setScrolling(true);
     } else {
       setScrolling(false);
