@@ -13,25 +13,20 @@ export function Intro() {
     <section id="intro">
       <div className="container m-auto px-4 pt-12 pb-12 sm:pt-20 flex flex-col sm:flex-row gap-6 text-center sm:text-left">
         <div>
-          <h2 className="font-bold text-3xl">Hello 👋, I&apos;m Hari,</h2>
+          <h2 className="font-bold text-3xl">Hello 👋, I&apos;m Adithyan,</h2>
           <div>
             <h2 className="font-bold text-3xl mt-1 pb-1 gradiant-text">
-              Frontend Developer
+              Developer
             </h2>
           </div>
           <div>
             <p className="mt-4 text-gray-400">
-              I&apos;m a frontend developer who loves working with React.js. I
-              enjoy creating user-friendly interfaces that look great and work
-              well. Let&apos;s connect and collaborate on exciting projects.
-              Explore my projects below! 👇
+            I am Adithyan.I attend the Government Engineering College in Idukki to study the field of computer science. Since I haven't started concentrating on a specific talent, I'm not sure what to say in my introduction. I'm just an inquisitive student trying things out!
+              I started learning to code a little later than I should have because I was still studying biology science in high school. C was the first language ever learned, and then web development. I got bored after a while and started web scraping. days, I resemble a jack-of-all-trades, master-of-none.
+              You can look into my projects by clicking <a className="text-blue-400 underline" href="https://github.com/Adithyan1020/">Here</a>
             </p>
-            <button
-              onClick={handleDownload}
-              className="px-8 font-bold shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700 md:px-4 md:py-3"
-            >
-              Download resume
-            </button>
+            
+             
           </div>
         </div>
       </div>

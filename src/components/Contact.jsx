@@ -10,20 +10,20 @@ export function Contact() {
       <h2 className="text-2xl font-semibold mb-8">Contact</h2>
       <div className="flex items-center mb-4">
         <FaEnvelope className="mr-2" />
-        <span>Email: hariraghavan2096@gmail.com</span>
+        <span>Email:adithyana543@gmail.com</span>
       </div>
       <div className="flex items-center mb-4">
         <FaMapMarkerAlt className="mr-2" />
-        <span>Location: Chennai, India</span>
+        <span>Location: Vaikom,Kottayam,Kerala, India</span>
       </div>
       <div className="flex items-center mb-4">
         <AiFillGithub className="mr-2" />
         <a
           target="blank"
-          href="https://github.com/Hari-Vijayaraghavan96"
+          href="https://github.com/Adithyan1020/"
           className="text-white hover:underline"
         >
-          GitHub: github.com/Hari-Vijayaraghavan96
+          GitHub: Adithyan1020
         </a>
       </div>
     </div>

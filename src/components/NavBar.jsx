@@ -10,19 +10,12 @@ export function NavBar({ scrolling }) {
         <div className="flex flex-col gap-4 sm:flex-row justify-between items-center">
           <div>
             <a href="#intro">
-              <h1 className="font-bold text-2xl">Hari Vijayaraghavan</h1>
+              <h1 className="font-bold text-2xl">Adithyan A</h1>
             </a>
           </div>
           <div>
             <ul className="flex gap-4">
-              <li>
-                <a
-                  href="#projects"
-                  className="text-gray-400 hover:text-white cursor-pointer font-medium"
-                >
-                  Projects
-                </a>
-              </li>
+              
               <li>
                 <a
                   href="#technologies"
